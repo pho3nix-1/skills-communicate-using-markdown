@@ -5,3 +5,10 @@
 Простой текст
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Пример Python-кода
+``` python
+def func(attr_1, attr_2):
+  print(attr_1)
+  return attr_2
+```
