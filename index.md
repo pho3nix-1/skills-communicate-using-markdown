@@ -3,3 +3,5 @@
 ### Заголовок 3
 #### Заголовок 4
 Простой текст
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
