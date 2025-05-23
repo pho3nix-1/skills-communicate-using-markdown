@@ -12,3 +12,6 @@ def func(attr_1, attr_2):
   print(attr_1)
   return attr_2
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
